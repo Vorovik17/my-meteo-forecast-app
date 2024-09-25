@@ -17,7 +17,7 @@ main{
     padding: 30px;
 }
 a{
-    color:#757a79;
+    color:#0691b4a1;
 }
 header{
     border-bottom: 1px solid #f9f7fe;
@@ -36,7 +36,8 @@ header{
 }
 .search-form-button{
     color: white;
-    background-color: #757a79;
+    background-color: 
+#0691b4;
     border: none;
     border-radius: 6px;
     padding: 15px 30px;
@@ -62,7 +63,8 @@ header{
     font-weight: 500;
 }
 .weather-app-details strong{
-    color: #f65282;
+    color:
+#f71e54;
 }
 
 .weather-app-temperature-container{
@@ -112,7 +114,7 @@ header{
 .weather-forecast-temperatures{
     text-align: center;
     margin-top: 10px;
-    color: #f65282;
+    color:#f71e54;
     display: flex;
     justify-content: center;
 }
